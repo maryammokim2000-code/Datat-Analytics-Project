@@ -1,2 +1,2 @@
 # Datat-Analytics-Project
-MySQL and Python Learning files
+Excel, MySQL, Python and Power Bi Learning files
